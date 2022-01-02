@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\bin\Debug\net5.0\Day19Assignment.exe
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\bin\Debug\net5.0\Day19Assignment.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\bin\Debug\net5.0\Day19Assignment.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\bin\Debug\net5.0\Day19Assignment.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\bin\Debug\net5.0\Day19Assignment.dll
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\bin\Debug\net5.0\ref\Day19Assignment.dll
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\bin\Debug\net5.0\Day19Assignment.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\Day19Assignment.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\Day19Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\Day19Assignment.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\Day19Assignment.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\Day19Assignment.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\Day19Assignment.dll
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\ref\Day19Assignment.dll
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\Day19Assignment.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day19Assignment\Day19Assignment\Day19Assignment\obj\Debug\net5.0\Day19Assignment.genruntimeconfig.cache
