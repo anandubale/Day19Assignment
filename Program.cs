@@ -6,8 +6,8 @@ namespace Day19Assignment
     {
         static void Main(string[] args)
         {
-            FirstNameRegex pattern = new FirstNameRegex();
-            Console.WriteLine(pattern.validateFirstName("And"));
+            LastNameRegex pattern2 = new LastNameRegex();
+            Console.WriteLine(pattern2.validateLastName("Ubale"));
         }
     }
 }

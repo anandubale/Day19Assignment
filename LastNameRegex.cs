@@ -7,12 +7,13 @@ using System.Text.RegularExpressions;
 
 namespace Day19Assignment
 {
-    class FirstNameRegex
+    class LastNameRegex
     {
-        public static string FIRSTNAME_REGEX = "^[A-Z]{1}[a-z]{2,}$";
-        public bool validateFirstName(string firstName)
+        public static string LASTNAME_REGEX = "^[A-Z]{1}[a-z]{2,}$";
+
+        public bool validateLastName(string lastName)
         {
-            return Regex.IsMatch(firstName, FIRSTNAME_REGEX);
+            return Regex.IsMatch(lastName, LASTNAME_REGEX);
         }
     }
 }
