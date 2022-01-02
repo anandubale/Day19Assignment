@@ -6,8 +6,8 @@ namespace Day19Assignment
     {
         static void Main(string[] args)
         {
-            MobileNumberRegex pattern4 = new MobileNumberRegex();
-            Console.WriteLine(pattern4.ValidateMobileNo("91 9999999999"));
+            PasswordRegexRule1 pattern5 = new PasswordRegexRule1();
+            Console.WriteLine(pattern5.ValidatePasswordRule1("AnandUbale"));
         }
     }
 }
