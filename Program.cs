@@ -6,8 +6,9 @@ namespace Day19Assignment
     {
         static void Main(string[] args)
         {
-            PasswordRegexRule1 pattern5 = new PasswordRegexRule1();
-            Console.WriteLine(pattern5.ValidatePasswordRule1("AnandUbale"));
+            AllEmailSamplesRegex pattern9 = new AllEmailSamplesRegex();
+            Console.WriteLine(pattern9.ValidateFullEmail("Anand@bl.co.in"));
+
         }
     }
 }
