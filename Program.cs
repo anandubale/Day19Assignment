@@ -6,8 +6,8 @@ namespace Day19Assignment
     {
         static void Main(string[] args)
         {
-            EmailRegex pattern3 = new EmailRegex();
-            Console.WriteLine(pattern3.validateEmail("abc.xyz@bl.co.in"));
+            MobileNumberRegex pattern4 = new MobileNumberRegex();
+            Console.WriteLine(pattern4.ValidateMobileNo("91 9999999999"));
         }
     }
 }
